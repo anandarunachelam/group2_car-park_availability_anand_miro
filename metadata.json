@@ -1,0 +1,6 @@
+{
+  "name": "ParkSpot SG - Singapore Public Parking & Telemetry",
+  "description": "Real-time Singapore public parking telemetry integrating LTA DataMall, HDB EPS, and URA sensor feeds with predictive occupancy, route planning, and CBD congestion monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
