@@ -25,8 +25,7 @@ async function startServer() {
   app.all([
     '/api/carpark-availability',
     '/api/carpark_availability',
-    '/api/carpark%20availability',
-    '/api/carpark availability'
+    '/api/carpark%20availability'
   ], (req, res) => {
     return carparkAvailabilityHandler(req, res);
   });
